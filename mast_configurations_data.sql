@@ -760,7 +760,7 @@ SELECT pg_catalog.setval('unit_id_seq', 6, true);
 -- Data for Name: users; Type: TABLE DATA; Schema: public; Owner: postgres
 --
 
-INSERT INTO users VALUES ('admin', 'Tanzania_Pilot_Live', 'admin@rmsi.com', '2015-11-05', '2015-06-25', NULL, true, 'LY3t9lcJ/iwbHCdsO+yjRg==', 'xJDH3YRCr%2BSDZ1xP0OYTXmnS5%2FvCv68CCh2teLg%2F1yzAIOPxm%2BZe0DLYeXRl5UuY', 7953, NULL, '');
+INSERT INTO users VALUES ('admin', 'admin' 'Tanzania_Pilot_Live', 'admin@rmsi.com', '2015-11-05', '2015-06-25', NULL, true, 'LY3t9lcJ/iwbHCdsO+yjRg==', 'xJDH3YRCr%2BSDZ1xP0OYTXmnS5%2FvCv68CCh2teLg%2F1yzAIOPxm%2BZe0DLYeXRl5UuY', 7953, NULL, '');
 
 
 -- Completed on 2015-08-06 16:58:54
